@@ -18,12 +18,12 @@ for(let i=0;i<3;i++){
 
         <div class="cube">
 
-            <div class="face front"><img src="floral_panel.svg" class="face-svg"></div>
-            <div class="face back"><img src="floral_panel.svg" class="face-svg"></div>
-            <div class="face left"><img src="floral_panel.svg" class="face-svg"></div>
-            <div class="face right"><img src="floral_panel.svg" class="face-svg"></div>
-            <div class="face top"><img src="floral_panel.svg" class="face-svg"></div>
-            <div class="face bottom"><img src="floral_panel.svg" class="face-svg"></div>
+            <div class="face front"><img src="doodle_pattern.svg" class="face-svg"></div>
+            <div class="face back"><img src="doodle_pattern.svg" class="face-svg"></div>
+            <div class="face left"><img src="doodle_pattern.svg" class="face-svg"></div>
+            <div class="face right"><img src="doodle_pattern.svg" class="face-svg"></div>
+            <div class="face top"><img src="doodle_pattern.svg" class="face-svg"></div>
+            <div class="face bottom"><img src="doodle_pattern.svg" class="face-svg"></div>
 
         </div>
 
