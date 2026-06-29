@@ -34,3 +34,10 @@ button{padding:12px 28px;font-size:16px}
 #reward{margin:20px auto;padding:18px;background:#fff8dc;border:2px solid gold;border-radius:12px;width:320px}
 .divider{font-size:22px;color:#b8860b}
 .completed .front{background:#d9ffd8}
+.face-svg{
+    width:90%;
+    height:90%;
+    object-fit:contain;
+    pointer-events:none;
+    user-select:none;
+}
