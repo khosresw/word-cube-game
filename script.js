@@ -38,7 +38,7 @@ for(let i=0;i<3;i++){
 
         const sep=document.createElement("div");
         sep.className="separator";
-        sep.innerHTML=`<img src="${separators[i+2]}">`;
+        sep.innerHTML=`<img src="${separators[i]}">`;
         game.appendChild(sep);
 
     }
