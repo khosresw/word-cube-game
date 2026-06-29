@@ -1,6 +1,6 @@
-const separators=[
-"ornamental_separator.svg",
-"seperator2.svg"
+const separators = [
+    "seperator3.svg",
+    "seperator4.svg"
 ];
 
 const game=document.getElementById("game");
