@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<g fill="none" stroke="black" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+<path d="M120 90 Q150 40 180 90"/>
+<path d="M245 40 Q265 15 285 40 Q265 75 245 90 Q225 75 205 40 Q225 15 245 40"/>
+<path d="M390 100 Q455 50 520 95 Q485 90 455 125 Q435 95 390 100"/>
+<path d="M250 170 Q250 190 285 195 Q315 215 285 245 Q310 260 300 285"/>
+<path d="M70 255 Q20 290 70 330 Q120 370 70 420"/>
+<circle cx="220" cy="360" r="18"/>
+<circle cx="410" cy="230" r="10" fill="black"/>
+<circle cx="470" cy="290" r="10" fill="black"/>
+<circle cx="560" cy="255" r="18"/>
+<path d="M380 360 Q450 380 455 455 Q420 430 390 435 Q445 450 430 495"/>
+<path d="M140 470 Q90 485 120 520 Q145 530 120 565"/>
+<path d="M280 490 Q250 520 295 540 Q330 555 310 580"/>
+<path d="M525 390 Q565 390 580 420"/>
+<path d="M530 470 Q540 500 570 510"/>
+</g>
+<g fill="black">
+<circle cx="40" cy="500" r="8"/>
+<circle cx="200" cy="565" r="8"/>
+<circle cx="380" cy="565" r="8"/>
+<circle cx="540" cy="540" r="10"/>
+<circle cx="60" cy="150" r="6"/>
+</g>
+</svg>
